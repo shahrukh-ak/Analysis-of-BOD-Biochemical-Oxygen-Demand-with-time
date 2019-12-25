@@ -53,7 +53,9 @@ demand (BOD) test is conducted over a period of time in days. The resulting data
     <td>3.8</td>
   </tr>
 </table>
-## Objectives:
+<br>
+## Objectives: <br>
+
 - Assuming that a linear regression model is appropriate, fit the regression model relating
 BOD (y) to the time (x).<br>
 - What is the estimated value of alpha^2?<br>
